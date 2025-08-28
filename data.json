@@ -1,0 +1,40 @@
+{
+    "responses": [
+        {
+            "patterns": ["bonjour", "salut", "coucou", "hello"],
+            "responses": [
+                "Bonjour ! Comment puis-je vous aider ?",
+                "Salut ! Quelle recette vous intéresse ?",
+                "Hello ! En quoi puis-je vous assister aujourd'hui ?"
+            ]
+        },
+        {
+            "patterns": ["omelette", "oeufs", "recette omelette"],
+            "responses": [
+                "Pour une omelette : battez 2-3 œufs, faites chauffer une poêle avec un peu de beurre, versez les œufs et laissez cuire 2-3 minutes. Salez, poivrez et servez."
+            ]
+        },
+        {
+            "patterns": ["pâtes", "spaghetti", "recette pâtes"],
+            "responses": [
+                "Pour des pâtes : portez de l'eau salée à ébullition, ajoutez les pâtes et cuisez le temps indiqué sur le paquet. Égouttez et servez avec votre sauce préférée."
+            ]
+        },
+        {
+            "patterns": ["merci", "super", "parfait"],
+            "responses": [
+                "Avec plaisir !",
+                "Toujours là pour aider !",
+                "N'hésitez pas si vous avez d'autres questions."
+            ]
+        },
+        {
+            "patterns": ["au revoir", "bye", "à bientôt"],
+            "responses": [
+                "Au revoir ! Bon appétit !",
+                "À bientôt pour de nouvelles recettes !",
+                "Bye ! Revenez vite !"
+            ]
+        }
+    ]
+}
